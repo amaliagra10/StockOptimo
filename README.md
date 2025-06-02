@@ -1,13 +1,16 @@
-Proyecto Final - Soy Henry - Data Analytics
+Proyecto Final - Soy Henry - Data 
+
 Este proyecto corresponde al trabajo final del bootcamp de Data Analytics de Soy Henry. El objetivo es realizar un análisis de datos de compras y ventas del año 2016, aplicando técnicas de exploración, limpieza y modelado con Python.
 
 📁 Estructura del proyecto
-proyecto_final.ipynb: Notebook principal con el análisis completo.
+Proyecto_final.ipynb: Notebook principal con el análisis completo.
 *.csv: Archivos con los datos utilizados para el análisis.
 .gitignore: Configurado para excluir archivos innecesarios del repositorio.
 requirements.txt: Lista de bibliotecas necesarias para ejecutar el proyecto.
 nanclajecloud Archivo relacionado con la configuración o integración en entorno cloud
 ⚠️ Recomendación: Mover los archivos .csv a una carpeta data/ y excluir esa carpeta del repositorio para mantenerlo liviano.
+Se puede acceder al mismo desde este link de drive https://drive.google.com/drive/folders/1LOM0SoFcyp2wlE5ckuQeWrvvkuOFua4f?usp=sharing
+
 
 📊 Datos utilizados
 2017PurchasePricesDec.csv
