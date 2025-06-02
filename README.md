@@ -28,22 +28,6 @@ NumPy
 Matplotlib
 Scikit-learn
 Category Encoders
-▶️ Cómo ejecutar el proyecto
-Clonar este repositorio:
-
-git clone https://github.com/NoeliaGCalligaro/proyectofinal.git
-cd proyecto final 
-Crear y activar un entorno virtual: python -m venv venv
-
-Activar en Windows
-.\venv\Scripts\activate
-
-Activar en Mac/Linux
-source venv/bin/activate
-
-Instalar las dependencias:
-
-pip install -r requirements.txt
 
 🧠 Proyecto Final - Optimización de Stock con Análisis de Datos en BigQuery y Python
 Este repositorio contiene dos notebooks principales que conforman el proceso completo del proyecto:
